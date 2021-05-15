@@ -1,0 +1,2 @@
+(this["webpackJsonptable-ui"]=this["webpackJsonptable-ui"]||[]).push([[0],{9:function(e,t,n){"use strict";n.r(t);var c=n(0),i=n.n(c),r=n(3),s=n.n(r),o=n(1),u=function(){return Object(o.jsx)("div",{children:"Hi"})};s.a.render(Object(o.jsx)(i.a.StrictMode,{children:Object(o.jsx)(u,{})}),document.getElementById("root"))}},[[9,1,2]]]);
+//# sourceMappingURL=main.e8c49d8f.chunk.js.map
